@@ -1,16 +1,20 @@
+# zeroshot validation reproduction for DigestPath
 from PIL import Image
 from transformers import CLIPProcessor, CLIPModel
 import torch
 import wandb
 import random
 from sklearn.metrics import f1_score
+import pandas as pd
+import numpy as np
 
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model = CLIPModel.from_pretrained("model/plip")
-processor = CLIPProcessor.from_pretrained("model/plip")
+print('Loading PLIP Model...')
+model = CLIPModel.from_pretrained("/root/model/plip")
+processor = CLIPProcessor.from_pretrained("/root/model/plip")
 
-data = pd.read_csv('/root/autodl-tmp/plip/reproducibility/ValData/DigestPath_test/DigestPath_test.csv'
+data = pd.read_csv('/root/autodl-tmp/plip/reproducibility/ValData/DigestPath_test/DigestPath_test.csv')
 images_neg = np.load('/root/autodl-tmp/plip/reproducibility/generate_validation_datasets/data_validation/DigestPath2019/Colonoscopy_tissue_segment_dataset/processed/cropsize=224_overlap=0.10_nonbgthreshold=0.50_downsamplelist=[2, 4, 8, 16, 32]/step_2_tumor2patch_ratio_threshold=0.50/final_negative_images.npy')
 images_pos = np.load('/root/autodl-tmp/plip/reproducibility/generate_validation_datasets/data_validation/DigestPath2019/Colonoscopy_tissue_segment_dataset/processed/cropsize=224_overlap=0.10_nonbgthreshold=0.50_downsamplelist=[2, 4, 8, 16, 32]/step_2_tumor2patch_ratio_threshold=0.50/final_positive_images.npy')
 
@@ -18,7 +22,8 @@ images_pos = np.load('/root/autodl-tmp/plip/reproducibility/generate_validation_
 wandb.init(
     # set the wandb project where this run will be logged
     project="PLIP",
-    
+    dir='/root/wandb',
+    name='DigestPath',
     # track hyperparameters and run metadata
     config={
     "architecture": "PLIP",

@@ -1,0 +1,3115 @@
+TP:0, TN:8, FP:1, FN:1.
+Accuracy: 0.8
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.8
+TP:0, TN:13, FP:6, FN:1.
+Accuracy: 0.65
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6456140350877193
+TP:0, TN:17, FP:9, FN:4.
+Accuracy: 0.5666666666666667
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.564256581386726
+TP:0, TN:23, FP:11, FN:6.
+Accuracy: 0.575
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5709930861093652
+TP:0, TN:29, FP:11, FN:10.
+Accuracy: 0.58
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5794941790445605
+TP:0, TN:36, FP:13, FN:11.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5986531986531987
+TP:0, TN:44, FP:14, FN:12.
+Accuracy: 0.6285714285714286
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6279630279630278
+TP:0, TN:50, FP:17, FN:13.
+Accuracy: 0.625
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.62453095684803
+TP:0, TN:55, FP:19, FN:16.
+Accuracy: 0.6111111111111112
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.610678531701891
+TP:0, TN:61, FP:21, FN:18.
+Accuracy: 0.61
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6096486838154338
+TP:0, TN:67, FP:23, FN:20.
+Accuracy: 0.6090909090909091
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6087999338350839
+TP:0, TN:75, FP:24, FN:21.
+Accuracy: 0.625
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.624765478424015
+TP:0, TN:81, FP:27, FN:22.
+Accuracy: 0.6230769230769231
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6231884453791076
+TP:0, TN:90, FP:27, FN:23.
+Accuracy: 0.6428571428571429
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.642711340506809
+TP:0, TN:96, FP:27, FN:27.
+Accuracy: 0.64
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.64
+TP:0, TN:102, FP:27, FN:31.
+Accuracy: 0.6375
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6376132989529614
+TP:0, TN:107, FP:30, FN:33.
+Accuracy: 0.6294117647058823
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6293732940077308
+TP:0, TN:112, FP:34, FN:34.
+Accuracy: 0.6222222222222222
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6222222222222222
+TP:0, TN:117, FP:38, FN:35.
+Accuracy: 0.6157894736842106
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6159492285808075
+TP:0, TN:125, FP:38, FN:37.
+Accuracy: 0.625
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6251034378996465
+TP:0, TN:126, FP:42, FN:42.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6
+TP:0, TN:129, FP:48, FN:43.
+Accuracy: 0.5863636363636363
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5868348557343773
+TP:0, TN:135, FP:50, FN:45.
+Accuracy: 0.5869565217391305
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5873869465540066
+TP:0, TN:141, FP:53, FN:46.
+Accuracy: 0.5875
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5881536104194598
+TP:0, TN:147, FP:56, FN:47.
+Accuracy: 0.588
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5888931352870334
+TP:0, TN:152, FP:57, FN:51.
+Accuracy: 0.5846153846153846
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5852822128819513
+TP:0, TN:159, FP:60, FN:51.
+Accuracy: 0.5888888888888889
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5898580227341307
+TP:0, TN:167, FP:61, FN:52.
+Accuracy: 0.5964285714285714
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5973128820205282
+TP:0, TN:174, FP:62, FN:54.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6006875477463713
+TP:0, TN:180, FP:65, FN:55.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.600983064480093
+TP:0, TN:185, FP:69, FN:56.
+Accuracy: 0.5967741935483871
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5981467872859809
+TP:0, TN:193, FP:70, FN:57.
+Accuracy: 0.603125
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.604289861687821
+TP:0, TN:201, FP:72, FN:57.
+Accuracy: 0.6090909090909091
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6103353715057953
+TP:0, TN:207, FP:73, FN:60.
+Accuracy: 0.6088235294117647
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6098399606994556
+TP:0, TN:212, FP:74, FN:64.
+Accuracy: 0.6057142857142858
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6063601263601265
+TP:0, TN:218, FP:75, FN:67.
+Accuracy: 0.6055555555555555
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.606191933921449
+TP:0, TN:223, FP:76, FN:71.
+Accuracy: 0.6027027027027027
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6030965834492283
+TP:0, TN:229, FP:77, FN:74.
+Accuracy: 0.6026315789473684
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6028723931953889
+TP:0, TN:233, FP:81, FN:76.
+Accuracy: 0.5974358974358974
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978487454492986
+TP:0, TN:238, FP:84, FN:78.
+Accuracy: 0.595
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5955201329606407
+TP:0, TN:244, FP:84, FN:82.
+Accuracy: 0.5951219512195122
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5952770434836432
+TP:0, TN:248, FP:87, FN:85.
+Accuracy: 0.5904761904761905
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5906350981651706
+TP:0, TN:253, FP:90, FN:87.
+Accuracy: 0.5883720930232558
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5886074050158109
+TP:0, TN:259, FP:91, FN:90.
+Accuracy: 0.5886363636363636
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5887025614090228
+TP:0, TN:265, FP:94, FN:91.
+Accuracy: 0.5888888888888889
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5890662510034818
+TP:0, TN:271, FP:96, FN:93.
+Accuracy: 0.5891304347826087
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5893000391751799
+TP:0, TN:273, FP:102, FN:95.
+Accuracy: 0.5808510638297872
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5812377202902934
+TP:0, TN:277, FP:105, FN:98.
+Accuracy: 0.5770833333333333
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5774054328509773
+TP:0, TN:284, FP:107, FN:99.
+Accuracy: 0.5795918367346938
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5799570670288966
+TP:0, TN:289, FP:108, FN:103.
+Accuracy: 0.578
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5782285464414233
+TP:0, TN:297, FP:109, FN:104.
+Accuracy: 0.5823529411764706
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5826027503295416
+TP:0, TN:302, FP:112, FN:106.
+Accuracy: 0.5807692307692308
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5810868723022755
+TP:0, TN:306, FP:114, FN:110.
+Accuracy: 0.5773584905660377
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5775396226415095
+TP:0, TN:314, FP:116, FN:110.
+Accuracy: 0.5814814814814815
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5817406260749916
+TP:0, TN:317, FP:122, FN:111.
+Accuracy: 0.5763636363636364
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5768738367212876
+TP:0, TN:321, FP:126, FN:113.
+Accuracy: 0.5732142857142857
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5738359343737496
+TP:0, TN:327, FP:129, FN:114.
+Accuracy: 0.5736842105263158
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.574375693617298
+TP:0, TN:334, FP:131, FN:115.
+Accuracy: 0.5758620689655173
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5765095768989701
+TP:0, TN:341, FP:132, FN:117.
+Accuracy: 0.5779661016949152
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5785314249882124
+TP:0, TN:347, FP:134, FN:119.
+Accuracy: 0.5783333333333334
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5788794439229908
+TP:0, TN:353, FP:135, FN:122.
+Accuracy: 0.578688524590164
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5791756870272636
+TP:0, TN:360, FP:137, FN:123.
+Accuracy: 0.5806451612903226
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5811660119839429
+TP:0, TN:367, FP:137, FN:126.
+Accuracy: 0.5825396825396826
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5829692477297849
+TP:0, TN:374, FP:138, FN:128.
+Accuracy: 0.584375
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5848030213124884
+TP:0, TN:382, FP:139, FN:129.
+Accuracy: 0.5876923076923077
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5880644124077776
+TP:0, TN:386, FP:143, FN:131.
+Accuracy: 0.5848484848484848
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5852845241774567
+TP:0, TN:392, FP:145, FN:133.
+Accuracy: 0.5850746268656717
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.585452721384501
+TP:0, TN:398, FP:146, FN:136.
+Accuracy: 0.5852941176470589
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5855998126804902
+TP:0, TN:406, FP:146, FN:138.
+Accuracy: 0.5884057971014492
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.588613672961499
+TP:0, TN:412, FP:148, FN:140.
+Accuracy: 0.5885714285714285
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5887868291520004
+TP:0, TN:418, FP:150, FN:142.
+Accuracy: 0.5887323943661972
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5889548143348862
+TP:0, TN:423, FP:154, FN:143.
+Accuracy: 0.5875
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5877894535395535
+TP:0, TN:428, FP:155, FN:147.
+Accuracy: 0.5863013698630137
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5865254938453002
+TP:0, TN:434, FP:157, FN:149.
+Accuracy: 0.5864864864864865
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5867288387288387
+TP:0, TN:442, FP:158, FN:150.
+Accuracy: 0.5893333333333334
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5895558470693358
+TP:0, TN:450, FP:160, FN:150.
+Accuracy: 0.5921052631578947
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5923742875193523
+TP:0, TN:456, FP:163, FN:151.
+Accuracy: 0.5922077922077922
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5925221913292033
+TP:0, TN:461, FP:167, FN:152.
+Accuracy: 0.591025641025641
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5914198711769562
+TP:0, TN:464, FP:169, FN:157.
+Accuracy: 0.5873417721518988
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5876759642070514
+TP:0, TN:470, FP:172, FN:158.
+Accuracy: 0.5875
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5878436660214609
+TP:0, TN:477, FP:172, FN:161.
+Accuracy: 0.5888888888888889
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5891444476179276
+TP:0, TN:485, FP:173, FN:162.
+Accuracy: 0.5914634146341463
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5917381198385613
+TP:0, TN:492, FP:174, FN:164.
+Accuracy: 0.5927710843373494
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5930080864707191
+TP:0, TN:499, FP:176, FN:165.
+Accuracy: 0.594047619047619
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5943204648072563
+TP:0, TN:507, FP:178, FN:165.
+Accuracy: 0.5964705882352941
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968128894310445
+TP:0, TN:513, FP:180, FN:167.
+Accuracy: 0.5965116279069768
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.596874603692151
+TP:0, TN:520, FP:181, FN:169.
+Accuracy: 0.5977011494252874
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980468990103878
+TP:0, TN:526, FP:184, FN:170.
+Accuracy: 0.5977272727272728
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5981509176083749
+TP:0, TN:535, FP:184, FN:171.
+Accuracy: 0.601123595505618
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6014982764222048
+TP:0, TN:542, FP:185, FN:173.
+Accuracy: 0.6022222222222222
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6025535130799959
+TP:0, TN:550, FP:186, FN:174.
+Accuracy: 0.6043956043956044
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6047178562197397
+TP:0, TN:556, FP:188, FN:176.
+Accuracy: 0.6043478260869565
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6046744715837603
+TP:0, TN:564, FP:189, FN:177.
+Accuracy: 0.6064516129032258
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6067695446871784
+TP:0, TN:570, FP:190, FN:180.
+Accuracy: 0.6063829787234043
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6066513539651837
+TP:0, TN:578, FP:191, FN:181.
+Accuracy: 0.608421052631579
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6086912104532242
+TP:0, TN:584, FP:193, FN:183.
+Accuracy: 0.6083333333333333
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6085979279895746
+TP:0, TN:589, FP:195, FN:186.
+Accuracy: 0.6072164948453608
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.607454194577169
+TP:0, TN:594, FP:198, FN:188.
+Accuracy: 0.6061224489795919
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6063694457716197
+TP:0, TN:600, FP:199, FN:191.
+Accuracy: 0.6060606060606061
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6062542475445702
+TP:0, TN:607, FP:200, FN:193.
+Accuracy: 0.607
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6071795736988777
+TP:0, TN:613, FP:203, FN:194.
+Accuracy: 0.6069306930693069
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6071500253178356
+TP:0, TN:619, FP:206, FN:195.
+Accuracy: 0.6068627450980392
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6071256126865685
+TP:0, TN:625, FP:208, FN:197.
+Accuracy: 0.6067961165048543
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6070539292582527
+TP:0, TN:631, FP:210, FN:199.
+Accuracy: 0.6067307692307692
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6069917623854276
+TP:0, TN:632, FP:216, FN:202.
+Accuracy: 0.6019047619047619
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6022294997365009
+TP:0, TN:638, FP:218, FN:204.
+Accuracy: 0.6018867924528302
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.602215457698097
+TP:0, TN:644, FP:219, FN:207.
+Accuracy: 0.6018691588785047
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6021456231150166
+TP:0, TN:650, FP:221, FN:209.
+Accuracy: 0.6018518518518519
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6021149308550883
+TP:0, TN:653, FP:225, FN:212.
+Accuracy: 0.5990825688073395
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5993775973957598
+TP:0, TN:657, FP:228, FN:215.
+Accuracy: 0.5972727272727273
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5975637038416225
+TP:0, TN:664, FP:228, FN:218.
+Accuracy: 0.5981981981981982
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984207892918124
+TP:0, TN:668, FP:230, FN:222.
+Accuracy: 0.5964285714285714
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.596609443777511
+TP:0, TN:672, FP:234, FN:224.
+Accuracy: 0.5946902654867257
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5949068934978404
+TP:0, TN:676, FP:238, FN:226.
+Accuracy: 0.5929824561403508
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5932389290910384
+TP:0, TN:682, FP:239, FN:229.
+Accuracy: 0.5930434782608696
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5932596816345925
+TP:0, TN:688, FP:241, FN:231.
+Accuracy: 0.593103448275862
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.593328131550153
+TP:0, TN:693, FP:243, FN:234.
+Accuracy: 0.5923076923076923
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5925041278773502
+TP:0, TN:702, FP:244, FN:234.
+Accuracy: 0.5949152542372881
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5951255034104156
+TP:0, TN:710, FP:245, FN:235.
+Accuracy: 0.5966386554621849
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968444934908608
+TP:0, TN:716, FP:247, FN:237.
+Accuracy: 0.5966666666666667
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.596863400924442
+TP:0, TN:724, FP:248, FN:238.
+Accuracy: 0.5983471074380166
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5985453300105599
+TP:0, TN:731, FP:249, FN:240.
+Accuracy: 0.5991803278688524
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5993578908611772
+TP:0, TN:735, FP:250, FN:245.
+Accuracy: 0.5975609756097561
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976584106518883
+TP:0, TN:743, FP:250, FN:247.
+Accuracy: 0.5991935483870968
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5992508336929618
+TP:0, TN:750, FP:252, FN:248.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6000781127547336
+TP:0, TN:756, FP:252, FN:252.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6
+TP:0, TN:763, FP:252, FN:255.
+Accuracy: 0.6007874015748031
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6007270104236095
+TP:0, TN:769, FP:256, FN:255.
+Accuracy: 0.60078125
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6008005730446605
+TP:0, TN:774, FP:256, FN:260.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5999247293150368
+TP:0, TN:779, FP:256, FN:265.
+Accuracy: 0.5992307692307692
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5990615366249884
+TP:0, TN:783, FP:258, FN:269.
+Accuracy: 0.5977099236641221
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5975054681643788
+TP:0, TN:788, FP:259, FN:273.
+Accuracy: 0.5969696969696969
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5967031271790917
+TP:0, TN:794, FP:262, FN:274.
+Accuracy: 0.5969924812030075
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5967619093822633
+TP:0, TN:799, FP:265, FN:276.
+Accuracy: 0.5962686567164179
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5960575774931174
+TP:0, TN:807, FP:266, FN:277.
+Accuracy: 0.5977777777777777
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5975755159007078
+TP:0, TN:813, FP:268, FN:279.
+Accuracy: 0.5977941176470588
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5975899993215279
+TP:0, TN:818, FP:270, FN:282.
+Accuracy: 0.5970802919708029
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968526581019986
+TP:0, TN:824, FP:272, FN:284.
+Accuracy: 0.5971014492753624
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968822661295451
+TP:0, TN:829, FP:275, FN:286.
+Accuracy: 0.5964028776978417
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5962021833748907
+TP:0, TN:835, FP:278, FN:287.
+Accuracy: 0.5964285714285714
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5962629732564249
+TP:0, TN:839, FP:283, FN:288.
+Accuracy: 0.5950354609929078
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5949423924521734
+TP:0, TN:845, FP:284, FN:291.
+Accuracy: 0.5950704225352113
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5949419739020152
+TP:0, TN:851, FP:285, FN:294.
+Accuracy: 0.5951048951048951
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5949384631656119
+TP:0, TN:858, FP:287, FN:295.
+Accuracy: 0.5958333333333333
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.59569244734931
+TP:0, TN:865, FP:287, FN:298.
+Accuracy: 0.596551724137931
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5963588829288035
+TP:0, TN:870, FP:292, FN:298.
+Accuracy: 0.5958904109589042
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.595785345389317
+TP:0, TN:876, FP:294, FN:300.
+Accuracy: 0.5959183673469388
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5958147391502238
+TP:0, TN:884, FP:295, FN:301.
+Accuracy: 0.5972972972972973
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5971976503837384
+TP:0, TN:889, FP:297, FN:304.
+Accuracy: 0.5966442953020135
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5965229825724025
+TP:0, TN:895, FP:298, FN:307.
+Accuracy: 0.5966666666666667
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5965062478824427
+TP:0, TN:902, FP:300, FN:308.
+Accuracy: 0.5973509933774834
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5972033679707429
+TP:0, TN:909, FP:300, FN:311.
+Accuracy: 0.5980263157894737
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978282820619696
+TP:0, TN:913, FP:302, FN:315.
+Accuracy: 0.5967320261437908
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5964957642051403
+TP:0, TN:921, FP:303, FN:316.
+Accuracy: 0.5980519480519481
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978150523023712
+TP:0, TN:929, FP:304, FN:317.
+Accuracy: 0.5993548387096774
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5991129610228004
+TP:0, TN:933, FP:305, FN:322.
+Accuracy: 0.5980769230769231
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5977693880319659
+TP:0, TN:937, FP:309, FN:324.
+Accuracy: 0.5968152866242038
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5965515310142617
+TP:0, TN:943, FP:311, FN:326.
+Accuracy: 0.5968354430379746
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5965701304963387
+TP:0, TN:946, FP:315, FN:329.
+Accuracy: 0.5949685534591195
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.594716088672736
+TP:0, TN:951, FP:316, FN:333.
+Accuracy: 0.594375
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5940690969919885
+TP:0, TN:958, FP:318, FN:334.
+Accuracy: 0.5950310559006211
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5947446528110065
+TP:0, TN:962, FP:323, FN:335.
+Accuracy: 0.5938271604938271
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5936143843609712
+TP:0, TN:967, FP:327, FN:336.
+Accuracy: 0.5932515337423313
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5930894936573856
+TP:0, TN:974, FP:330, FN:336.
+Accuracy: 0.5939024390243902
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5937931424320223
+TP:0, TN:978, FP:334, FN:338.
+Accuracy: 0.5927272727272728
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5926538690057298
+TP:0, TN:986, FP:336, FN:338.
+Accuracy: 0.5939759036144578
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5939409535741368
+TP:0, TN:990, FP:342, FN:338.
+Accuracy: 0.592814371257485
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5928860026348189
+TP:0, TN:998, FP:343, FN:339.
+Accuracy: 0.594047619047619
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5941158444922409
+TP:0, TN:1002, FP:346, FN:342.
+Accuracy: 0.5928994082840237
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5929670154551806
+TP:0, TN:1009, FP:348, FN:343.
+Accuracy: 0.5935294117647059
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5936149366351247
+TP:0, TN:1014, FP:353, FN:343.
+Accuracy: 0.5929824561403508
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5931559692527624
+TP:0, TN:1020, FP:353, FN:347.
+Accuracy: 0.5930232558139535
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5931278172104297
+TP:0, TN:1023, FP:355, FN:352.
+Accuracy: 0.5913294797687861
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5913801214809813
+TP:0, TN:1030, FP:356, FN:354.
+Accuracy: 0.5919540229885057
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5919870706499484
+TP:0, TN:1035, FP:360, FN:355.
+Accuracy: 0.5914285714285714
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.591512380952381
+TP:0, TN:1040, FP:362, FN:358.
+Accuracy: 0.5909090909090909
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5909759956085973
+TP:0, TN:1046, FP:364, FN:360.
+Accuracy: 0.5909604519774011
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5910265906828468
+TP:0, TN:1049, FP:366, FN:365.
+Accuracy: 0.5893258426966292
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5893426513949758
+TP:0, TN:1057, FP:368, FN:365.
+Accuracy: 0.5905027932960893
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5905540702297538
+TP:0, TN:1062, FP:369, FN:369.
+Accuracy: 0.59
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.59
+TP:0, TN:1070, FP:369, FN:371.
+Accuracy: 0.5911602209944752
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.591126084119677
+TP:0, TN:1074, FP:371, FN:375.
+Accuracy: 0.5901098901098901
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5900421952955359
+TP:0, TN:1080, FP:374, FN:376.
+Accuracy: 0.5901639344262295
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5901304623880516
+TP:0, TN:1085, FP:377, FN:378.
+Accuracy: 0.5896739130434783
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5896572164305764
+TP:0, TN:1091, FP:380, FN:379.
+Accuracy: 0.5897297297297297
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5897467307833617
+TP:0, TN:1099, FP:382, FN:379.
+Accuracy: 0.5908602150537634
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.590911251186734
+TP:0, TN:1104, FP:383, FN:383.
+Accuracy: 0.5903743315508021
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5903743315508021
+TP:0, TN:1111, FP:385, FN:384.
+Accuracy: 0.5909574468085106
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.590974564039601
+TP:0, TN:1118, FP:387, FN:385.
+Accuracy: 0.5915343915343916
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5915679818506913
+TP:0, TN:1123, FP:388, FN:389.
+Accuracy: 0.5910526315789474
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5910356481420562
+TP:0, TN:1126, FP:392, FN:392.
+Accuracy: 0.5895287958115183
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5895287958115183
+TP:0, TN:1134, FP:393, FN:393.
+Accuracy: 0.590625
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.590625
+TP:0, TN:1140, FP:395, FN:395.
+Accuracy: 0.5906735751295337
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5906735751295337
+TP:0, TN:1147, FP:398, FN:395.
+Accuracy: 0.5912371134020619
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5912872771944855
+TP:0, TN:1152, FP:401, FN:397.
+Accuracy: 0.5907692307692308
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5908368191534299
+TP:0, TN:1158, FP:402, FN:400.
+Accuracy: 0.5908163265306122
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5908493365883899
+TP:0, TN:1165, FP:404, FN:401.
+Accuracy: 0.5913705583756346
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5914198243462339
+TP:0, TN:1172, FP:407, FN:401.
+Accuracy: 0.591919191919192
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5920172302564378
+TP:0, TN:1182, FP:407, FN:401.
+Accuracy: 0.5939698492462312
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5940626537808915
+TP:0, TN:1189, FP:408, FN:403.
+Accuracy: 0.5945
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5945738852342627
+TP:0, TN:1197, FP:409, FN:404.
+Accuracy: 0.5955223880597015
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5955933187021412
+TP:0, TN:1200, FP:413, FN:407.
+Accuracy: 0.594059405940594
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.594145800448432
+TP:0, TN:1205, FP:416, FN:409.
+Accuracy: 0.5935960591133005
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5936966719368622
+TP:0, TN:1209, FP:421, FN:410.
+Accuracy: 0.5926470588235294
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5928061629630993
+TP:0, TN:1214, FP:424, FN:412.
+Accuracy: 0.5921951219512195
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5923730988879732
+TP:0, TN:1222, FP:426, FN:412.
+Accuracy: 0.5932038834951456
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.593417183009422
+TP:0, TN:1228, FP:428, FN:414.
+Accuracy: 0.5932367149758454
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5934452251671001
+TP:0, TN:1232, FP:430, FN:418.
+Accuracy: 0.5923076923076923
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5924896978021977
+TP:0, TN:1235, FP:434, FN:421.
+Accuracy: 0.5909090909090909
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5911062792960108
+TP:0, TN:1245, FP:434, FN:421.
+Accuracy: 0.5928571428571429
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5930588509249797
+TP:0, TN:1250, FP:438, FN:422.
+Accuracy: 0.5924170616113744
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5926587448491035
+TP:0, TN:1256, FP:440, FN:424.
+Accuracy: 0.5924528301886792
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5926951590640595
+TP:0, TN:1265, FP:441, FN:424.
+Accuracy: 0.5938967136150235
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5941462102055338
+TP:0, TN:1270, FP:442, FN:428.
+Accuracy: 0.5934579439252337
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5936654998579789
+TP:0, TN:1279, FP:443, FN:428.
+Accuracy: 0.5948837209302326
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5950992396798234
+TP:0, TN:1286, FP:443, FN:431.
+Accuracy: 0.5953703703703703
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.595539919764726
+TP:0, TN:1294, FP:445, FN:431.
+Accuracy: 0.5963133640552996
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5965088858468474
+TP:0, TN:1301, FP:446, FN:433.
+Accuracy: 0.596788990825688
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5969720290443105
+TP:0, TN:1306, FP:449, FN:435.
+Accuracy: 0.5963470319634703
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5965389633197854
+TP:0, TN:1314, FP:450, FN:436.
+Accuracy: 0.5972727272727273
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5974672101969584
+TP:0, TN:1321, FP:452, FN:437.
+Accuracy: 0.597737556561086
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5979450573102946
+TP:0, TN:1327, FP:453, FN:440.
+Accuracy: 0.5977477477477477
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5979237935084238
+TP:0, TN:1335, FP:453, FN:442.
+Accuracy: 0.5986547085201793
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598801997151971
+TP:0, TN:1342, FP:453, FN:445.
+Accuracy: 0.5991071428571428
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5992125330843677
+TP:0, TN:1349, FP:454, FN:447.
+Accuracy: 0.5995555555555555
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5996474101877918
+TP:0, TN:1355, FP:455, FN:450.
+Accuracy: 0.5995575221238938
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5996225498126466
+TP:0, TN:1358, FP:460, FN:452.
+Accuracy: 0.5982378854625551
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983419838583126
+TP:0, TN:1367, FP:461, FN:452.
+Accuracy: 0.599561403508772
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5996792151282949
+TP:0, TN:1372, FP:465, FN:453.
+Accuracy: 0.5991266375545852
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5992815800222915
+TP:0, TN:1379, FP:467, FN:454.
+Accuracy: 0.5995652173913043
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5997364275947571
+TP:0, TN:1381, FP:473, FN:456.
+Accuracy: 0.5978354978354978
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980610081609521
+TP:0, TN:1388, FP:474, FN:458.
+Accuracy: 0.5982758620689655
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984921173058332
+TP:0, TN:1393, FP:475, FN:462.
+Accuracy: 0.5978540772532189
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980274732159876
+TP:0, TN:1400, FP:477, FN:463.
+Accuracy: 0.5982905982905983
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984723944928358
+TP:0, TN:1407, FP:480, FN:463.
+Accuracy: 0.5987234042553191
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5989382680173142
+TP:0, TN:1412, FP:482, FN:466.
+Accuracy: 0.5983050847457627
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5985093183029343
+TP:0, TN:1419, FP:484, FN:467.
+Accuracy: 0.5987341772151898
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5989528133345143
+TP:0, TN:1426, FP:486, FN:468.
+Accuracy: 0.5991596638655462
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5993902609339191
+TP:0, TN:1430, FP:490, FN:470.
+Accuracy: 0.5983263598326359
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5985866795715933
+TP:0, TN:1439, FP:491, FN:470.
+Accuracy: 0.5995833333333334
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.599860967206525
+TP:0, TN:1446, FP:493, FN:471.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6002896742896743
+TP:0, TN:1451, FP:495, FN:474.
+Accuracy: 0.5995867768595041
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.599862735586424
+TP:0, TN:1456, FP:498, FN:476.
+Accuracy: 0.5991769547325103
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.599465479980687
+TP:0, TN:1460, FP:501, FN:479.
+Accuracy: 0.5983606557377049
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5986504135390222
+TP:0, TN:1467, FP:503, FN:480.
+Accuracy: 0.5987755102040816
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5990866188952197
+TP:0, TN:1474, FP:503, FN:483.
+Accuracy: 0.5991869918699188
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5994617970830058
+TP:0, TN:1478, FP:508, FN:484.
+Accuracy: 0.5983805668016194
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598708307707191
+TP:0, TN:1485, FP:509, FN:486.
+Accuracy: 0.5987903225806451
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.599103076297183
+TP:0, TN:1493, FP:511, FN:486.
+Accuracy: 0.5995983935742972
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5999382174871228
+TP:0, TN:1498, FP:513, FN:489.
+Accuracy: 0.5992
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5995223584183377
+TP:0, TN:1504, FP:515, FN:491.
+Accuracy: 0.599203187250996
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5995260798239268
+TP:0, TN:1508, FP:518, FN:494.
+Accuracy: 0.5984126984126984
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5987336473050759
+TP:0, TN:1513, FP:519, FN:498.
+Accuracy: 0.5980237154150198
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983093197810812
+TP:0, TN:1522, FP:519, FN:499.
+Accuracy: 0.5992125984251968
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5994778442231102
+TP:0, TN:1526, FP:523, FN:501.
+Accuracy: 0.5984313725490196
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5987241821772817
+TP:0, TN:1534, FP:524, FN:502.
+Accuracy: 0.59921875
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5995114392409094
+TP:0, TN:1539, FP:528, FN:503.
+Accuracy: 0.5988326848249027
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.599164553597093
+TP:0, TN:1544, FP:532, FN:504.
+Accuracy: 0.5984496124031008
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988239390356064
+TP:0, TN:1549, FP:533, FN:508.
+Accuracy: 0.598069498069498
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983999070141267
+TP:0, TN:1555, FP:536, FN:509.
+Accuracy: 0.5980769230769231
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598427719818857
+TP:0, TN:1559, FP:538, FN:513.
+Accuracy: 0.5973180076628353
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976439447714674
+TP:0, TN:1565, FP:539, FN:516.
+Accuracy: 0.5973282442748091
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976285542764321
+TP:0, TN:1571, FP:540, FN:519.
+Accuracy: 0.5973384030418251
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976129941738292
+TP:0, TN:1577, FP:542, FN:521.
+Accuracy: 0.5973484848484848
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.597620977940546
+TP:0, TN:1584, FP:543, FN:523.
+Accuracy: 0.5977358490566038
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5979943200336018
+TP:0, TN:1589, FP:546, FN:525.
+Accuracy: 0.5973684210526315
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976392311566571
+TP:0, TN:1596, FP:547, FN:527.
+Accuracy: 0.597752808988764
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980073841658341
+TP:0, TN:1603, FP:549, FN:528.
+Accuracy: 0.5981343283582089
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984029762774766
+TP:0, TN:1610, FP:551, FN:529.
+Accuracy: 0.5985130111524164
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5987933321739672
+TP:0, TN:1616, FP:551, FN:533.
+Accuracy: 0.5985185185185186
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598742111430906
+TP:0, TN:1620, FP:554, FN:536.
+Accuracy: 0.5977859778597786
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980083172942543
+TP:0, TN:1624, FP:556, FN:540.
+Accuracy: 0.5970588235294118
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5972571318242573
+TP:0, TN:1629, FP:557, FN:544.
+Accuracy: 0.5967032967032967
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.596862658907098
+TP:0, TN:1635, FP:557, FN:548.
+Accuracy: 0.5967153284671532
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968248435801654
+TP:0, TN:1641, FP:559, FN:550.
+Accuracy: 0.5967272727272728
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968389238766255
+TP:0, TN:1647, FP:562, FN:551.
+Accuracy: 0.5967391304347827
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968734057527812
+TP:0, TN:1653, FP:564, FN:553.
+Accuracy: 0.5967509025270759
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968865607772245
+TP:0, TN:1659, FP:567, FN:554.
+Accuracy: 0.5967625899280575
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5969231349811509
+TP:0, TN:1664, FP:569, FN:557.
+Accuracy: 0.596415770609319
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5965649318027492
+TP:0, TN:1671, FP:571, FN:558.
+Accuracy: 0.5967857142857143
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5969480483266035
+TP:0, TN:1679, FP:573, FN:558.
+Accuracy: 0.597508896797153
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976929680397195
+TP:0, TN:1685, FP:576, FN:559.
+Accuracy: 0.5975177304964538
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5977266110671726
+TP:0, TN:1690, FP:577, FN:563.
+Accuracy: 0.5971731448763251
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5973433683911233
+TP:0, TN:1695, FP:579, FN:566.
+Accuracy: 0.596830985915493
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5969887287221135
+TP:0, TN:1701, FP:581, FN:568.
+Accuracy: 0.5968421052631578
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5970000495216986
+TP:0, TN:1708, FP:583, FN:569.
+Accuracy: 0.5972027972027972
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5973736580494683
+TP:0, TN:1713, FP:586, FN:571.
+Accuracy: 0.5968641114982578
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5970467972100535
+TP:0, TN:1721, FP:586, FN:573.
+Accuracy: 0.5975694444444445
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.597726391261848
+TP:0, TN:1729, FP:587, FN:574.
+Accuracy: 0.5982698961937716
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984280370639337
+TP:0, TN:1735, FP:588, FN:577.
+Accuracy: 0.5982758620689655
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984076687946005
+TP:0, TN:1740, FP:590, FN:580.
+Accuracy: 0.5979381443298969
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980586969271054
+TP:0, TN:1747, FP:590, FN:583.
+Accuracy: 0.5982876712328767
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983724159117084
+TP:0, TN:1752, FP:594, FN:584.
+Accuracy: 0.5979522184300341
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980711144899704
+TP:0, TN:1761, FP:595, FN:584.
+Accuracy: 0.5989795918367347
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5991128052235245
+TP:0, TN:1766, FP:599, FN:585.
+Accuracy: 0.5986440677966102
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988159020610535
+TP:0, TN:1771, FP:600, FN:589.
+Accuracy: 0.5983108108108108
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984465667289417
+TP:0, TN:1777, FP:600, FN:593.
+Accuracy: 0.5983164983164984
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984029550418635
+TP:0, TN:1782, FP:603, FN:595.
+Accuracy: 0.5979865771812081
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980859117127649
+TP:0, TN:1789, FP:604, FN:597.
+Accuracy: 0.5983277591973244
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984156312355045
+TP:0, TN:1795, FP:606, FN:599.
+Accuracy: 0.5983333333333334
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984206142941678
+TP:0, TN:1798, FP:612, FN:600.
+Accuracy: 0.59734219269103
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5974917300349077
+TP:0, TN:1804, FP:613, FN:603.
+Accuracy: 0.5973509933774834
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5974765863176671
+TP:0, TN:1811, FP:615, FN:604.
+Accuracy: 0.5976897689768977
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978273821796304
+TP:0, TN:1817, FP:619, FN:604.
+Accuracy: 0.5976973684210526
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978837759548155
+TP:0, TN:1823, FP:621, FN:606.
+Accuracy: 0.5977049180327869
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978927548789085
+TP:0, TN:1828, FP:622, FN:610.
+Accuracy: 0.5973856209150327
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5975355494647082
+TP:0, TN:1833, FP:622, FN:615.
+Accuracy: 0.5970684039087948
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.597156278899867
+TP:0, TN:1839, FP:623, FN:618.
+Accuracy: 0.5970779220779221
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5971402778687489
+TP:0, TN:1843, FP:627, FN:620.
+Accuracy: 0.5964401294498382
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5965263880798441
+TP:0, TN:1850, FP:629, FN:621.
+Accuracy: 0.5967741935483871
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968717086945208
+TP:0, TN:1854, FP:633, FN:623.
+Accuracy: 0.5961414790996784
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5962619169262349
+TP:0, TN:1860, FP:635, FN:625.
+Accuracy: 0.5961538461538461
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.596274354077529
+TP:0, TN:1866, FP:635, FN:629.
+Accuracy: 0.5961661341853035
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5962384790216553
+TP:0, TN:1873, FP:638, FN:629.
+Accuracy: 0.5964968152866242
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5966056821789861
+TP:0, TN:1877, FP:643, FN:630.
+Accuracy: 0.5958730158730159
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5960305910774798
+TP:0, TN:1882, FP:648, FN:630.
+Accuracy: 0.5955696202531645
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.595787321662188
+TP:0, TN:1889, FP:648, FN:633.
+Accuracy: 0.5958990536277603
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.596079791060142
+TP:0, TN:1894, FP:651, FN:635.
+Accuracy: 0.5955974842767295
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5957898494912661
+TP:0, TN:1903, FP:651, FN:636.
+Accuracy: 0.596551724137931
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5967311153854781
+TP:0, TN:1910, FP:652, FN:638.
+Accuracy: 0.596875
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5970395475584849
+TP:0, TN:1916, FP:652, FN:642.
+Accuracy: 0.5968847352024922
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5970015289236785
+TP:0, TN:1924, FP:652, FN:644.
+Accuracy: 0.5975155279503106
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976101454397962
+TP:0, TN:1929, FP:655, FN:646.
+Accuracy: 0.5972136222910217
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5973198391739417
+TP:0, TN:1935, FP:657, FN:648.
+Accuracy: 0.5972222222222222
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5973256504631251
+TP:0, TN:1943, FP:658, FN:649.
+Accuracy: 0.5978461538461538
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5979508913022072
+TP:0, TN:1951, FP:658, FN:651.
+Accuracy: 0.5984662576687116
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5985481780388076
+TP:0, TN:1956, FP:662, FN:652.
+Accuracy: 0.5981651376146789
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5982811470544759
+TP:0, TN:1961, FP:665, FN:654.
+Accuracy: 0.5978658536585366
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5979923527325004
+TP:0, TN:1967, FP:667, FN:656.
+Accuracy: 0.597872340425532
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5979997409712027
+TP:0, TN:1973, FP:669, FN:658.
+Accuracy: 0.5978787878787879
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980079120612493
+TP:0, TN:1977, FP:674, FN:659.
+Accuracy: 0.5972809667673716
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5974551004061192
+TP:0, TN:1983, FP:677, FN:660.
+Accuracy: 0.5972891566265061
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.597485306375412
+TP:0, TN:1988, FP:679, FN:663.
+Accuracy: 0.596996996996997
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.597178833735125
+TP:0, TN:1993, FP:680, FN:667.
+Accuracy: 0.5967065868263473
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968540262973336
+TP:0, TN:1999, FP:680, FN:671.
+Accuracy: 0.5967164179104477
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968185390561164
+TP:0, TN:2004, FP:682, FN:674.
+Accuracy: 0.5964285714285714
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.596519159496324
+TP:0, TN:2010, FP:684, FN:676.
+Accuracy: 0.5964391691394659
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5965286298458942
+TP:0, TN:2016, FP:686, FN:678.
+Accuracy: 0.5964497041420118
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5965392093412185
+TP:0, TN:2021, FP:690, FN:679.
+Accuracy: 0.5961651917404129
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5962880130309669
+TP:0, TN:2027, FP:693, FN:680.
+Accuracy: 0.5961764705882353
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.596322623603238
+TP:0, TN:2031, FP:695, FN:684.
+Accuracy: 0.5956011730205278
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5957250710637453
+TP:0, TN:2040, FP:696, FN:684.
+Accuracy: 0.5964912280701754
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5966257226868585
+TP:0, TN:2048, FP:696, FN:686.
+Accuracy: 0.5970845481049563
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5971958047487834
+TP:0, TN:2054, FP:698, FN:688.
+Accuracy: 0.5970930232558139
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5972050246590485
+TP:0, TN:2059, FP:703, FN:688.
+Accuracy: 0.5968115942028985
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5969792536685093
+TP:0, TN:2066, FP:703, FN:691.
+Accuracy: 0.5971098265895953
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5972426595706738
+TP:0, TN:2074, FP:704, FN:692.
+Accuracy: 0.5976945244956773
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978263945085215
+TP:0, TN:2081, FP:705, FN:694.
+Accuracy: 0.5979885057471265
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5981097239044347
+TP:0, TN:2087, FP:708, FN:695.
+Accuracy: 0.5979942693409742
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5981358167737929
+TP:0, TN:2093, FP:708, FN:699.
+Accuracy: 0.598
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980986420672267
+TP:0, TN:2102, FP:708, FN:700.
+Accuracy: 0.5988603988603989
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5989476582871635
+TP:0, TN:2109, FP:709, FN:702.
+Accuracy: 0.5991477272727272
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.599224751262987
+TP:0, TN:2115, FP:710, FN:705.
+Accuracy: 0.5991501416430595
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5992051749871073
+TP:0, TN:2121, FP:712, FN:707.
+Accuracy: 0.5991525423728814
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5992069332796283
+TP:0, TN:2128, FP:714, FN:708.
+Accuracy: 0.5994366197183099
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5995016682355097
+TP:0, TN:2135, FP:715, FN:710.
+Accuracy: 0.5997191011235955
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5997731256052783
+TP:0, TN:2141, FP:716, FN:713.
+Accuracy: 0.599719887955182
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5997521195902425
+TP:0, TN:2147, FP:718, FN:715.
+Accuracy: 0.5997206703910615
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5997529130617159
+TP:0, TN:2155, FP:719, FN:716.
+Accuracy: 0.6002785515320335
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003107597422583
+TP:0, TN:2162, FP:721, FN:717.
+Accuracy: 0.6005555555555555
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6005981031276406
+TP:0, TN:2164, FP:725, FN:721.
+Accuracy: 0.5994459833795014
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5994884109539951
+TP:0, TN:2170, FP:728, FN:722.
+Accuracy: 0.5994475138121547
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5995111774697103
+TP:0, TN:2178, FP:728, FN:724.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6000414004625093
+TP:0, TN:2186, FP:729, FN:725.
+Accuracy: 0.6005494505494505
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6005903178429863
+TP:0, TN:2189, FP:731, FN:730.
+Accuracy: 0.5997260273972602
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.59973623960359
+TP:0, TN:2195, FP:733, FN:732.
+Accuracy: 0.5997267759562842
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5997369319389425
+TP:0, TN:2203, FP:734, FN:733.
+Accuracy: 0.6002724795640327
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6002826269238142
+TP:0, TN:2208, FP:737, FN:735.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.600020136793168
+TP:0, TN:2214, FP:738, FN:738.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6
+TP:0, TN:2222, FP:740, FN:738.
+Accuracy: 0.6005405405405405
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6005606709130137
+TP:0, TN:2227, FP:742, FN:741.
+Accuracy: 0.6002695417789757
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6002795889001775
+TP:0, TN:2233, FP:746, FN:741.
+Accuracy: 0.600268817204301
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003193737035838
+TP:0, TN:2237, FP:751, FN:742.
+Accuracy: 0.5997319034852547
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5998225352112725
+TP:0, TN:2244, FP:752, FN:744.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6000807783571702
+TP:0, TN:2250, FP:754, FN:746.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6000817465048921
+TP:0, TN:2252, FP:757, FN:751.
+Accuracy: 0.5989361702127659
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5989976634168024
+TP:0, TN:2257, FP:759, FN:754.
+Accuracy: 0.5986737400530504
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5987251790614312
+TP:0, TN:2261, FP:762, FN:757.
+Accuracy: 0.5981481481481481
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5981996689592162
+TP:0, TN:2270, FP:762, FN:758.
+Accuracy: 0.5989445910290238
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5989851628642774
+TP:0, TN:2275, FP:766, FN:759.
+Accuracy: 0.5986842105263158
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5987550803899935
+TP:0, TN:2282, FP:767, FN:761.
+Accuracy: 0.5989501312335958
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5990113672712694
+TP:0, TN:2286, FP:770, FN:764.
+Accuracy: 0.5984293193717277
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984909904942067
+TP:0, TN:2292, FP:772, FN:766.
+Accuracy: 0.5984334203655353
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984947662096577
+TP:0, TN:2298, FP:775, FN:767.
+Accuracy: 0.5984375
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5985193123042748
+TP:0, TN:2304, FP:778, FN:768.
+Accuracy: 0.5984415584415584
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5985432872349429
+TP:0, TN:2309, FP:781, FN:770.
+Accuracy: 0.5981865284974093
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5982988317278132
+TP:0, TN:2315, FP:783, FN:772.
+Accuracy: 0.5981912144702842
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983029312752308
+TP:0, TN:2320, FP:785, FN:775.
+Accuracy: 0.5979381443298969
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980384170906055
+TP:0, TN:2325, FP:789, FN:776.
+Accuracy: 0.5976863753213367
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978179125387569
+TP:0, TN:2332, FP:790, FN:778.
+Accuracy: 0.597948717948718
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980677998655527
+TP:0, TN:2341, FP:791, FN:778.
+Accuracy: 0.5987212276214834
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988489707822141
+TP:0, TN:2347, FP:793, FN:780.
+Accuracy: 0.5987244897959184
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988508777417968
+TP:0, TN:2353, FP:795, FN:782.
+Accuracy: 0.5987277353689567
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988548618764158
+TP:0, TN:2359, FP:798, FN:783.
+Accuracy: 0.598730964467005
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988768973530826
+TP:0, TN:2368, FP:799, FN:783.
+Accuracy: 0.599493670886076
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5996495098843241
+TP:0, TN:2375, FP:799, FN:786.
+Accuracy: 0.5997474747474747
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5998750748209263
+TP:0, TN:2381, FP:799, FN:790.
+Accuracy: 0.5997481108312342
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5998360006024426
+TP:0, TN:2388, FP:801, FN:791.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6000978783840687
+TP:0, TN:2391, FP:807, FN:792.
+Accuracy: 0.5992481203007519
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5993948588530966
+TP:0, TN:2393, FP:812, FN:795.
+Accuracy: 0.59825
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5984167555034371
+TP:0, TN:2398, FP:813, FN:799.
+Accuracy: 0.598004987531172
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5981420683705709
+TP:0, TN:2405, FP:814, FN:801.
+Accuracy: 0.5982587064676617
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983842806119692
+TP:0, TN:2412, FP:815, FN:803.
+Accuracy: 0.5985111662531017
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5986273434222039
+TP:0, TN:2417, FP:817, FN:806.
+Accuracy: 0.5982673267326732
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983730770333101
+TP:0, TN:2426, FP:817, FN:807.
+Accuracy: 0.5990123456790123
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5991080776695966
+TP:0, TN:2432, FP:819, FN:809.
+Accuracy: 0.5990147783251232
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5991105345241576
+TP:0, TN:2439, FP:821, FN:810.
+Accuracy: 0.5992628992628992
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5993679180464061
+TP:0, TN:2443, FP:826, FN:811.
+Accuracy: 0.5987745098039216
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598915697054251
+TP:0, TN:2448, FP:827, FN:815.
+Accuracy: 0.5985330073349633
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5986457640234553
+TP:0, TN:2450, FP:830, FN:820.
+Accuracy: 0.5975609756097561
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976542121658573
+TP:0, TN:2457, FP:830, FN:823.
+Accuracy: 0.5978102189781022
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978752954669608
+TP:0, TN:2465, FP:830, FN:825.
+Accuracy: 0.5983009708737864
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983474133003869
+TP:0, TN:2471, FP:832, FN:827.
+Accuracy: 0.5983050847457627
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983515419556914
+TP:0, TN:2473, FP:837, FN:830.
+Accuracy: 0.5973429951690822
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5974078736322053
+TP:0, TN:2479, FP:839, FN:832.
+Accuracy: 0.5973493975903614
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.597413623827481
+TP:0, TN:2486, FP:841, FN:833.
+Accuracy: 0.5975961538461538
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976697279582271
+TP:0, TN:2491, FP:843, FN:836.
+Accuracy: 0.5973621103117506
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5974263802345078
+TP:0, TN:2499, FP:843, FN:838.
+Accuracy: 0.5978468899521531
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978925206887942
+TP:0, TN:2505, FP:845, FN:840.
+Accuracy: 0.5978520286396182
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978976745488132
+TP:0, TN:2510, FP:848, FN:842.
+Accuracy: 0.5976190476190476
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976734509024678
+TP:0, TN:2516, FP:849, FN:845.
+Accuracy: 0.597624703087886
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976607978216112
+TP:0, TN:2522, FP:852, FN:846.
+Accuracy: 0.5976303317535545
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976839362628327
+TP:0, TN:2524, FP:857, FN:849.
+Accuracy: 0.5966903073286052
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5967612357107038
+TP:0, TN:2530, FP:860, FN:850.
+Accuracy: 0.5966981132075472
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5967868109786918
+TP:0, TN:2537, FP:861, FN:852.
+Accuracy: 0.5969411764705882
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5970195483214441
+TP:0, TN:2542, FP:864, FN:854.
+Accuracy: 0.5967136150234742
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968005598645475
+TP:0, TN:2550, FP:865, FN:855.
+Accuracy: 0.5971896955503513
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5972774874575099
+TP:0, TN:2557, FP:867, FN:856.
+Accuracy: 0.5974299065420561
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5975262137186272
+TP:0, TN:2563, FP:871, FN:856.
+Accuracy: 0.5974358974358974
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5975666066919527
+TP:0, TN:2570, FP:874, FN:856.
+Accuracy: 0.5976744186046512
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978300406253795
+TP:0, TN:2577, FP:874, FN:859.
+Accuracy: 0.5979118329466357
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980405027246475
+TP:0, TN:2582, FP:876, FN:862.
+Accuracy: 0.5976851851851852
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978057127693639
+TP:0, TN:2588, FP:879, FN:863.
+Accuracy: 0.5976905311778291
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.597829042902593
+TP:0, TN:2596, FP:880, FN:864.
+Accuracy: 0.5981566820276498
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5982971937888648
+TP:0, TN:2602, FP:881, FN:867.
+Accuracy: 0.5981609195402299
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5982832964021417
+TP:0, TN:2608, FP:884, FN:868.
+Accuracy: 0.5981651376146789
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983043489424352
+TP:0, TN:2613, FP:886, FN:871.
+Accuracy: 0.5979405034324943
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980701606446113
+TP:0, TN:2620, FP:887, FN:873.
+Accuracy: 0.5981735159817352
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5982936018961736
+TP:0, TN:2627, FP:889, FN:874.
+Accuracy: 0.5984054669703872
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5985357119299205
+TP:0, TN:2634, FP:890, FN:876.
+Accuracy: 0.5986363636363636
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598758789813605
+TP:0, TN:2641, FP:891, FN:878.
+Accuracy: 0.5988662131519275
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5989784838934656
+TP:0, TN:2647, FP:893, FN:880.
+Accuracy: 0.598868778280543
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5989816329850681
+TP:0, TN:2649, FP:895, FN:886.
+Accuracy: 0.5979683972911964
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980459677889441
+TP:0, TN:2655, FP:898, FN:887.
+Accuracy: 0.597972972972973
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980673499048003
+TP:0, TN:2662, FP:900, FN:888.
+Accuracy: 0.5982022471910112
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598305429212613
+TP:0, TN:2668, FP:901, FN:891.
+Accuracy: 0.5982062780269058
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5982918735893291
+TP:0, TN:2675, FP:904, FN:891.
+Accuracy: 0.598434004474273
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5985433731496569
+TP:0, TN:2684, FP:905, FN:891.
+Accuracy: 0.5991071428571428
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.599225059182278
+TP:0, TN:2688, FP:910, FN:892.
+Accuracy: 0.598663697104677
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988155259676948
+TP:0, TN:2695, FP:911, FN:894.
+Accuracy: 0.5988888888888889
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5990312148808852
+TP:0, TN:2700, FP:914, FN:896.
+Accuracy: 0.5986696230598669
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988200943349637
+TP:0, TN:2707, FP:916, FN:897.
+Accuracy: 0.5988938053097345
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5990529883383021
+TP:0, TN:2712, FP:918, FN:900.
+Accuracy: 0.5986754966887418
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988260738451109
+TP:0, TN:2716, FP:920, FN:904.
+Accuracy: 0.5982378854625551
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983712829597644
+TP:0, TN:2725, FP:921, FN:904.
+Accuracy: 0.5989010989010989
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5990416349802151
+TP:0, TN:2735, FP:921, FN:904.
+Accuracy: 0.5997807017543859
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5999203099476812
+TP:0, TN:2743, FP:922, FN:905.
+Accuracy: 0.600218818380744
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003596629784271
+TP:0, TN:2747, FP:924, FN:909.
+Accuracy: 0.5997816593886462
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5999061101846056
+TP:0, TN:2754, FP:926, FN:910.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6001324044334796
+TP:0, TN:2758, FP:929, FN:913.
+Accuracy: 0.5995652173913043
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.599697806859752
+TP:0, TN:2766, FP:929, FN:915.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6001164658207384
+TP:0, TN:2770, FP:930, FN:920.
+Accuracy: 0.5995670995670995
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5996500160762863
+TP:0, TN:2776, FP:932, FN:922.
+Accuracy: 0.5995680345572354
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5996513575941032
+TP:0, TN:2781, FP:935, FN:924.
+Accuracy: 0.5993534482758621
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5994449646366322
+TP:0, TN:2786, FP:938, FN:926.
+Accuracy: 0.5991397849462365
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5992385553887457
+TP:0, TN:2792, FP:939, FN:929.
+Accuracy: 0.5991416309012876
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5992243417843134
+TP:0, TN:2794, FP:943, FN:933.
+Accuracy: 0.5982869379014989
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598369467305194
+TP:0, TN:2801, FP:945, FN:934.
+Accuracy: 0.5985042735042735
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5985935803458553
+TP:0, TN:2807, FP:948, FN:935.
+Accuracy: 0.5985074626865672
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5986130400162333
+TP:0, TN:2815, FP:949, FN:936.
+Accuracy: 0.5989361702127659
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5990411825185338
+TP:0, TN:2823, FP:951, FN:936.
+Accuracy: 0.5993630573248407
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5994846912041192
+TP:0, TN:2830, FP:952, FN:938.
+Accuracy: 0.5995762711864406
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5996889927180661
+TP:0, TN:2836, FP:953, FN:941.
+Accuracy: 0.5995771670190275
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.599673814649066
+TP:0, TN:2841, FP:956, FN:943.
+Accuracy: 0.5993670886075949
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5994711616037075
+TP:0, TN:2845, FP:959, FN:946.
+Accuracy: 0.5989473684210527
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5990515829291414
+TP:0, TN:2851, FP:961, FN:948.
+Accuracy: 0.5989495798319328
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5990538250851732
+TP:0, TN:2856, FP:963, FN:951.
+Accuracy: 0.5987421383647799
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988377903475913
+TP:0, TN:2865, FP:963, FN:952.
+Accuracy: 0.5993723849372385
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5994589650568052
+TP:0, TN:2870, FP:966, FN:954.
+Accuracy: 0.5991649269311065
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5992588141535645
+TP:0, TN:2876, FP:967, FN:957.
+Accuracy: 0.5991666666666666
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5992445772123847
+TP:0, TN:2883, FP:970, FN:957.
+Accuracy: 0.5993762993762993
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5994768750902346
+TP:0, TN:2891, FP:972, FN:957.
+Accuracy: 0.5997925311203319
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5999074448157329
+TP:0, TN:2895, FP:974, FN:961.
+Accuracy: 0.5993788819875776
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5994781609394096
+TP:0, TN:2903, FP:975, FN:962.
+Accuracy: 0.599793388429752
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5998921518386147
+TP:0, TN:2911, FP:976, FN:963.
+Accuracy: 0.6002061855670103
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003044372847469
+TP:0, TN:2919, FP:977, FN:964.
+Accuracy: 0.6006172839506173
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.600714577199133
+TP:0, TN:2927, FP:978, FN:965.
+Accuracy: 0.6010266940451745
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6011248305663707
+TP:0, TN:2934, FP:979, FN:967.
+Accuracy: 0.6012295081967213
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6013198819393102
+TP:0, TN:2940, FP:980, FN:970.
+Accuracy: 0.6012269938650306
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6013019955015617
+TP:0, TN:2947, FP:981, FN:972.
+Accuracy: 0.6014285714285714
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6014965274364233
+TP:0, TN:2954, FP:983, FN:973.
+Accuracy: 0.6016293279022403
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6017046563328328
+TP:0, TN:2961, FP:984, FN:975.
+Accuracy: 0.6018292682926829
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.60189599333722
+TP:0, TN:2970, FP:984, FN:976.
+Accuracy: 0.6024340770791075
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6024931902836197
+TP:0, TN:2976, FP:987, FN:977.
+Accuracy: 0.6024291497975709
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6025020730702513
+TP:0, TN:2981, FP:988, FN:981.
+Accuracy: 0.6022222222222222
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6022729708501735
+TP:0, TN:2988, FP:991, FN:981.
+Accuracy: 0.6024193548387097
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6024916882472416
+TP:0, TN:2997, FP:992, FN:981.
+Accuracy: 0.6030181086519115
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6030981392503938
+TP:0, TN:3004, FP:994, FN:982.
+Accuracy: 0.6032128514056225
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6032995649857759
+TP:0, TN:3008, FP:997, FN:985.
+Accuracy: 0.6028056112224449
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6028920634188495
+TP:0, TN:3014, FP:1001, FN:985.
+Accuracy: 0.6028
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6029153277548139
+TP:0, TN:3017, FP:1008, FN:985.
+Accuracy: 0.6021956087824352
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6023613506323927
+TP:0, TN:3022, FP:1010, FN:988.
+Accuracy: 0.6019920318725099
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6021496562683378
+TP:0, TN:3027, FP:1010, FN:993.
+Accuracy: 0.6017892644135189
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6019109132562878
+TP:0, TN:3031, FP:1014, FN:995.
+Accuracy: 0.6013888888888889
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6015244421723245
+TP:0, TN:3038, FP:1016, FN:996.
+Accuracy: 0.6015841584158416
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6017252474492285
+TP:0, TN:3046, FP:1016, FN:998.
+Accuracy: 0.6019762845849802
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.602103781069474
+TP:0, TN:3052, FP:1018, FN:1000.
+Accuracy: 0.6019723865877712
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6020993778417294
+TP:0, TN:3056, FP:1019, FN:1005.
+Accuracy: 0.6015748031496063
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6016737235581137
+TP:0, TN:3061, FP:1021, FN:1008.
+Accuracy: 0.6013752455795678
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6014665777639038
+TP:0, TN:3065, FP:1023, FN:1012.
+Accuracy: 0.6009803921568627
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6010570987494094
+TP:0, TN:3072, FP:1023, FN:1015.
+Accuracy: 0.601174168297456
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6012293328968785
+TP:0, TN:3077, FP:1026, FN:1017.
+Accuracy: 0.6009765625
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6010382690741707
+TP:0, TN:3080, FP:1029, FN:1021.
+Accuracy: 0.6003898635477583
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6004447031855464
+TP:0, TN:3086, FP:1031, FN:1023.
+Accuracy: 0.6003891050583657
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6004439776118438
+TP:0, TN:3091, FP:1032, FN:1027.
+Accuracy: 0.6001941747572815
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6002284298104625
+TP:0, TN:3096, FP:1035, FN:1029.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6000406889018598
+TP:0, TN:3100, FP:1037, FN:1033.
+Accuracy: 0.5996131528046421
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5996401992434642
+TP:0, TN:3105, FP:1040, FN:1035.
+Accuracy: 0.5994208494208494
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5994544659173273
+TP:0, TN:3115, FP:1040, FN:1035.
+Accuracy: 0.6001926782273603
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6002264034232561
+TP:0, TN:3120, FP:1043, FN:1037.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6000402421984165
+TP:0, TN:3127, FP:1043, FN:1040.
+Accuracy: 0.6001919385796545
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6002118367692326
+TP:0, TN:3136, FP:1043, FN:1041.
+Accuracy: 0.6007662835249042
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6007795687306038
+TP:0, TN:3142, FP:1044, FN:1044.
+Accuracy: 0.6007648183556406
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6007648183556406
+TP:0, TN:3147, FP:1046, FN:1047.
+Accuracy: 0.6005725190839695
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6005658201215553
+TP:0, TN:3153, FP:1050, FN:1047.
+Accuracy: 0.6005714285714285
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6005915374037828
+TP:0, TN:3158, FP:1050, FN:1052.
+Accuracy: 0.6003802281368821
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003667193564064
+TP:0, TN:3161, FP:1053, FN:1056.
+Accuracy: 0.5998102466793169
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5997899878960681
+TP:0, TN:3170, FP:1054, FN:1056.
+Accuracy: 0.6003787878787878
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003652058869451
+TP:0, TN:3173, FP:1059, FN:1058.
+Accuracy: 0.5998109640831758
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5998177827749717
+TP:0, TN:3182, FP:1059, FN:1059.
+Accuracy: 0.6003773584905661
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003773584905661
+TP:0, TN:3187, FP:1061, FN:1062.
+Accuracy: 0.6001883239171375
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6001815051858733
+TP:0, TN:3191, FP:1063, FN:1066.
+Accuracy: 0.599812030075188
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5997917190580877
+TP:0, TN:3200, FP:1063, FN:1067.
+Accuracy: 0.600375234521576
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003486967120101
+TP:0, TN:3207, FP:1065, FN:1068.
+Accuracy: 0.6005617977528089
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6005419356973678
+TP:0, TN:3213, FP:1067, FN:1070.
+Accuracy: 0.6005607476635514
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6005408746154101
+TP:0, TN:3221, FP:1067, FN:1072.
+Accuracy: 0.6009328358208955
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.60089972706785
+TP:0, TN:3228, FP:1069, FN:1073.
+Accuracy: 0.6011173184357542
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.601090999590091
+TP:0, TN:3234, FP:1070, FN:1076.
+Accuracy: 0.6011152416356877
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6010760801470604
+TP:0, TN:3241, FP:1071, FN:1078.
+Accuracy: 0.6012987012987013
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6012529096027363
+TP:0, TN:3247, FP:1073, FN:1080.
+Accuracy: 0.6012962962962963
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6012506750770672
+TP:0, TN:3253, FP:1075, FN:1082.
+Accuracy: 0.6012939001848429
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6012484484896937
+TP:0, TN:3257, FP:1079, FN:1084.
+Accuracy: 0.6009225092250923
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6008902731864414
+TP:0, TN:3264, FP:1081, FN:1085.
+Accuracy: 0.6011049723756906
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6010792355556959
+TP:0, TN:3269, FP:1083, FN:1088.
+Accuracy: 0.6009191176470589
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6008869817794289
+TP:0, TN:3272, FP:1088, FN:1090.
+Accuracy: 0.6003669724770642
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003541754210144
+TP:0, TN:3281, FP:1089, FN:1090.
+Accuracy: 0.6009157509157509
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6009093710430721
+TP:0, TN:3287, FP:1091, FN:1092.
+Accuracy: 0.6009140767824497
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6009076930795363
+TP:0, TN:3291, FP:1095, FN:1094.
+Accuracy: 0.6005474452554744
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.600553865779516
+TP:0, TN:3296, FP:1099, FN:1095.
+Accuracy: 0.6003642987249544
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003900611765675
+TP:0, TN:3302, FP:1099, FN:1099.
+Accuracy: 0.6003636363636363
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003636363636363
+TP:0, TN:3309, FP:1100, FN:1101.
+Accuracy: 0.6005444646098004
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6005380604462931
+TP:0, TN:3312, FP:1102, FN:1106.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5999743882685571
+TP:0, TN:3318, FP:1105, FN:1107.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5999872407637563
+TP:0, TN:3325, FP:1105, FN:1110.
+Accuracy: 0.6001805054151624
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6001488042456714
+TP:0, TN:3330, FP:1106, FN:1114.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5999495455963353
+TP:0, TN:3338, FP:1106, FN:1116.
+Accuracy: 0.6003597122302158
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.600296929111709
+TP:0, TN:3346, FP:1107, FN:1117.
+Accuracy: 0.6007181328545781
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6006558959953241
+TP:0, TN:3350, FP:1113, FN:1117.
+Accuracy: 0.600358422939068
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6003334906628023
+TP:0, TN:3354, FP:1116, FN:1120.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.599975239943645
+TP:0, TN:3361, FP:1117, FN:1122.
+Accuracy: 0.6001785714285715
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6001476812076494
+TP:0, TN:3367, FP:1119, FN:1124.
+Accuracy: 0.6001782531194296
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6001474737162519
+TP:0, TN:3373, FP:1122, FN:1125.
+Accuracy: 0.6001779359430605
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6001595344337702
+TP:0, TN:3378, FP:1125, FN:1127.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5999877449484778
+TP:0, TN:3387, FP:1126, FN:1127.
+Accuracy: 0.600531914893617
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6005258045191307
+TP:0, TN:3391, FP:1130, FN:1129.
+Accuracy: 0.6001769911504424
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6001831107728869
+TP:0, TN:3397, FP:1132, FN:1131.
+Accuracy: 0.6001766784452297
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6001827252812401
+TP:0, TN:3403, FP:1135, FN:1132.
+Accuracy: 0.6001763668430335
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6001945192275968
+TP:0, TN:3410, FP:1136, FN:1134.
+Accuracy: 0.6003521126760564
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.600364191401409
+TP:0, TN:3414, FP:1140, FN:1136.
+Accuracy: 0.6
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.6000240932038622
+TP:0, TN:3418, FP:1142, FN:1140.
+Accuracy: 0.5996491228070175
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5996611374004222
+TP:0, TN:3423, FP:1146, FN:1141.
+Accuracy: 0.5994746059544659
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5995046123751574
+TP:0, TN:3429, FP:1147, FN:1144.
+Accuracy: 0.5994755244755244
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5994933148570418
+TP:0, TN:3432, FP:1150, FN:1148.
+Accuracy: 0.5989528795811518
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598964738556407
+TP:0, TN:3439, FP:1151, FN:1150.
+Accuracy: 0.5991289198606272
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5991348632528104
+TP:0, TN:3445, FP:1154, FN:1151.
+Accuracy: 0.5991304347826087
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5991481281715847
+TP:0, TN:3452, FP:1156, FN:1152.
+Accuracy: 0.5993055555555555
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5993289060476561
+TP:0, TN:3457, FP:1159, FN:1154.
+Accuracy: 0.5991334488734835
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5991623633146503
+TP:0, TN:3461, FP:1162, FN:1157.
+Accuracy: 0.5987889273356402
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988177658916958
+TP:0, TN:3466, FP:1165, FN:1159.
+Accuracy: 0.5986183074265976
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5986527347946502
+TP:0, TN:3473, FP:1167, FN:1160.
+Accuracy: 0.5987931034482759
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5988330267726245
+TP:0, TN:3477, FP:1169, FN:1164.
+Accuracy: 0.5984509466437177
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598479510178151
+TP:0, TN:3481, FP:1173, FN:1166.
+Accuracy: 0.5981099656357388
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5981500197012931
+TP:0, TN:3485, FP:1179, FN:1166.
+Accuracy: 0.597770154373928
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978443464766128
+TP:0, TN:3491, FP:1179, FN:1170.
+Accuracy: 0.5977739726027397
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978249423387563
+TP:0, TN:3496, FP:1182, FN:1172.
+Accuracy: 0.5976068376068376
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976634193098126
+TP:0, TN:3503, FP:1185, FN:1172.
+Accuracy: 0.5977815699658703
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978546865023785
+TP:0, TN:3510, FP:1187, FN:1173.
+Accuracy: 0.5979557069846678
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980343106924426
+TP:0, TN:3515, FP:1189, FN:1176.
+Accuracy: 0.5977891156462585
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.597861730985626
+TP:0, TN:3519, FP:1192, FN:1179.
+Accuracy: 0.5974533106960951
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5975257384660614
+TP:0, TN:3529, FP:1192, FN:1179.
+Accuracy: 0.5981355932203389
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598207957859124
+TP:0, TN:3534, FP:1194, FN:1182.
+Accuracy: 0.5979695431472081
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5980357188566536
+TP:0, TN:3541, FP:1196, FN:1183.
+Accuracy: 0.5981418918918919
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5982131560673035
+TP:0, TN:3549, FP:1197, FN:1184.
+Accuracy: 0.5984822934232715
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5985535584105105
+TP:0, TN:3554, FP:1200, FN:1186.
+Accuracy: 0.5983164983164984
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983931794489545
+TP:0, TN:3559, FP:1201, FN:1190.
+Accuracy: 0.5981512605042016
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5982114583109492
+TP:0, TN:3566, FP:1201, FN:1193.
+Accuracy: 0.5983221476510067
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598365853814385
+TP:0, TN:3572, FP:1203, FN:1195.
+Accuracy: 0.5983249581239531
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5983690684366059
+TP:0, TN:3577, FP:1205, FN:1198.
+Accuracy: 0.5981605351170568
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.598198937320094
+TP:0, TN:3583, FP:1206, FN:1201.
+Accuracy: 0.5981636060100167
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5981907154269177
+TP:0, TN:3589, FP:1208, FN:1203.
+Accuracy: 0.5981666666666666
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5981937988091776
+TP:0, TN:3592, FP:1208, FN:1210.
+Accuracy: 0.5976705490848586
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976597873266695
+TP:0, TN:3598, FP:1211, FN:1211.
+Accuracy: 0.5976744186046512
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976744186046512
+TP:0, TN:3604, FP:1212, FN:1214.
+Accuracy: 0.5976782752902156
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976676305669615
+TP:0, TN:3610, FP:1214, FN:1216.
+Accuracy: 0.597682119205298
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5976714650706607
+TP:0, TN:3617, FP:1217, FN:1216.
+Accuracy: 0.5978512396694214
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978565803915845
+TP:0, TN:3623, FP:1220, FN:1217.
+Accuracy: 0.5978547854785479
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5978707543316454
+TP:0, TN:3626, FP:1221, FN:1223.
+Accuracy: 0.5973640856672158
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5973534398133742
+TP:0, TN:3632, FP:1223, FN:1225.
+Accuracy: 0.5973684210526315
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5973577217038509
+TP:0, TN:3639, FP:1225, FN:1226.
+Accuracy: 0.5975369458128079
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5975316049746398
+TP:0, TN:3645, FP:1227, FN:1228.
+Accuracy: 0.5975409836065574
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.597535660431552
+TP:0, TN:3650, FP:1230, FN:1230.
+Accuracy: 0.5973813420621932
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5973813420621932
+TP:0, TN:3655, FP:1233, FN:1232.
+Accuracy: 0.5972222222222222
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5972275365530642
+TP:0, TN:3660, FP:1236, FN:1234.
+Accuracy: 0.5970636215334421
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5970742850909426
+TP:0, TN:3665, FP:1237, FN:1238.
+Accuracy: 0.5969055374592834
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5969002101592418
+TP:0, TN:3671, FP:1237, FN:1242.
+Accuracy: 0.5969105691056911
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.596884128712851
+TP:0, TN:3676, FP:1239, FN:1245.
+Accuracy: 0.5967532467532467
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5967214145097487
+TP:0, TN:3683, FP:1240, FN:1247.
+Accuracy: 0.5969205834683955
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968832043555639
+TP:0, TN:3689, FP:1242, FN:1249.
+Accuracy: 0.5969255663430421
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5968883093605352
+TP:0, TN:3694, FP:1243, FN:1253.
+Accuracy: 0.5967689822294022
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.596716232271314
+TP:0, TN:3702, FP:1245, FN:1253.
+Accuracy: 0.5970967741935483
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5970549162925763
+TP:0, TN:3708, FP:1248, FN:1254.
+Accuracy: 0.5971014492753624
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5970701578859767
+TP:0, TN:3712, FP:1251, FN:1257.
+Accuracy: 0.5967845659163987
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5967532236868066
+TP:0, TN:3716, FP:1253, FN:1261.
+Accuracy: 0.5964686998394864
+Precision: 0.0
+Recall: 0.0
+F1 Score Weighted: 0.5964268428940636
